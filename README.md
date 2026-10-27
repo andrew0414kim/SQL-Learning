@@ -12,6 +12,7 @@ A 10-session introduction to SQL and relational databases, using basketball-them
 - Session 2: Filtering, sorting, and updating data
 - Session 3: Aggregate functions and summary statistics
 - Session 4: GROUP BY and HAVING (In Progress)
+- Session 5: JOINs and multi-table analysis
 
 ## Database
 The project uses a SQLite database (`basketball.db`) containing two tables:
