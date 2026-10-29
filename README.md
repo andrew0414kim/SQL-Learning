@@ -15,6 +15,7 @@ A 10-session introduction to SQL and relational databases, using basketball-them
 - Session 5: JOINs and multi-table analysis
 - Session 6: Subqueries and correlated subqueries
 - Session 7: Common Table Expressions (CTEs), multiple CTEs, CROSS JOIN, and basic data cleaning
+- Session 8: Window functions, PARTITION BY, ranking, running totals, and CTE integration
 
 ## Database
 The project uses a SQLite database (`basketball.db`) containing two tables:
