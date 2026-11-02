@@ -17,6 +17,7 @@ A 10-session introduction to SQL and relational databases, using basketball-them
 - Session 7: Common Table Expressions (CTEs), multiple CTEs, CROSS JOIN, and basic data cleaning
 - Session 8: Window functions, PARTITION BY, ranking, running totals, and CTE integration
 - Session 9: Conditional logic, data type conversion, pattern matching, range filtering, and data cleaning
+- Session 10: Final SQL analytics project — data quality auditing, team comparisons, player efficiency analysis, scoring leaderboards, conditional aggregation, and advanced window functions.
 
 ## Database
 The project uses a SQLite database (`basketball.db`) containing two tables:
