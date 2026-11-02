@@ -1,17 +1,18 @@
 # SQL-Learning
 
-A 10-session introduction to SQL and relational databases, using basketball-themed examples and exercises.
+A 10-session introduction to SQL and relational databases, using basketball-themed examples and exercises. I used ChatGPT as an interactive tutor to develop my understanding of SQL syntax, relational databases, and analytical querying through progressively challenging exercises.
 
 ## Tools
 - SQLite
 - Visual Studio Code
 - Git and GitHub
+- ChatGPT
 
 ## Progress
 - Session 1: Introduction to relational databases
 - Session 2: Filtering, sorting, and updating data
 - Session 3: Aggregate functions and summary statistics
-- Session 4: GROUP BY and HAVING (In Progress)
+- Session 4: GROUP BY and HAVING 
 - Session 5: JOINs and multi-table analysis
 - Session 6: Subqueries and correlated subqueries
 - Session 7: Common Table Expressions (CTEs), multiple CTEs, CROSS JOIN, and basic data cleaning
@@ -24,4 +25,4 @@ The project uses a SQLite database (`basketball.db`) containing two tables:
 - `players`: Player information and statistics
 - `teams`: Team information
 
-All basketball statistics are synthetic and used for educational purposes.
+All basketball statistics are synthetic, created for educational purposes, and do not represent actual NBA performance.
